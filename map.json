@@ -114,7 +114,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebSite",
+                 "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/us02web.zoom.us\/j\/5455076580"
                 }],
