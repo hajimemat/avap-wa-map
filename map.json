@@ -117,6 +117,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/us02web.zoom.us\/j\/5455076580"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"openWebsiteTrigger: onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Senzoku Zoom?"
                 }],
          "type":"tilelayer",
          "visible":true,
