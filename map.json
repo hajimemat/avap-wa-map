@@ -120,6 +120,11 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"openTab",
+                 "type":"string",
+                 "value":"senzoku"
+                }, 
+                {
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/us02web.zoom.us\/j\/5455076580"
