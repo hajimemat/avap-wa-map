@@ -148,7 +148,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"url",
+                 "name":"openTab",
                  "type":"string",
                  "value":"https:\/\/www.notion.so\/avap\/0fb50b0e1ee640b2af396870688f5786"
                 }],
