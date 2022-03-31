@@ -278,54 +278,6 @@
                  "width":93.7162209047986,
                  "x":447.919325398621,
                  "y":-29.9730883528684
-                }, 
-                {
-                 "height":23,
-                 "id":33,
-                 "name":"",
-                 "rotation":0,
-                 "text":
-                    {
-                     "text":"\u793e\u9577\u5ba4",
-                     "wrap":true
-                    },
-                 "type":"",
-                 "visible":true,
-                 "width":51.5376399776036,
-                 "x":822.786611142217,
-                 "y":680.187346024636
-                }, 
-                {
-                 "height":23,
-                 "id":34,
-                 "name":"",
-                 "rotation":0,
-                 "text":
-                    {
-                     "text":"\u6d17\u8db3ZOOM",
-                     "wrap":true
-                    },
-                 "type":"",
-                 "visible":true,
-                 "width":84.5625,
-                 "x":828.290754479283,
-                 "y":314.161814109742
-                }, 
-                {
-                 "height":23,
-                 "id":36,
-                 "name":"",
-                 "rotation":0,
-                 "text":
-                    {
-                     "text":"\u6848\u4ef6Notion",
-                     "wrap":true
-                    },
-                 "type":"",
-                 "visible":true,
-                 "width":84.5625,
-                 "x":799.852680571109,
-                 "y":132.525083986562
                 }],
          "opacity":1,
          "type":"objectgroup",
